@@ -9,9 +9,6 @@ const HomeMain = () => {
       <Navbar />
       <CardComponent />
 
-
-
-
     </>
   )
 }
